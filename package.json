@@ -1,0 +1,9 @@
+{
+  "name": "selena-explore-3d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive semantic artwork map using CSS 3D transforms and local text similarity.",
+  "license": "UNLICENSED",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node scripts/serve.mjs", "test": "node --test tests/*.test.mjs" }
+}
